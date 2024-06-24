@@ -1,0 +1,1 @@
+- If no config file specified, then webpack takes default config on its own
